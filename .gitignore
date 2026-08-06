@@ -1,0 +1,21 @@
+# Cached weather downloads
+data/cache/
+
+# Generated output — regenerate with run_analysis.py
+figures/*.png
+results/*.csv
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.egg-info/
+
+# Notebooks
+.ipynb_checkpoints/
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
