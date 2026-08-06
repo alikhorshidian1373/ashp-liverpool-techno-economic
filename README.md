@@ -105,8 +105,8 @@ electricity price, and ±20% tornado sensitivity on the three cost drivers.
 ## Running it
 
 ```bash
-git clone https://github.com/alikhorshidian1373/ashp-liverpool.git
-cd ashp-liverpool
+git clone https://github.com/alikhorshidian1373/ashp-liverpool-techno-economic.git
+cd ashp-liverpool-techno-economic
 pip install -r requirements.txt
 python run_analysis.py
 ```
